@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/eyebrow/static/css/main.0b6cc278.css",
+    "main.js": "/eyebrow/static/js/main.08262053.js",
+    "static/media/ecommerce.png": "/eyebrow/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/resume.pdf": "/eyebrow/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/sidebar.png": "/eyebrow/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/eyebrow/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/boy.png": "/eyebrow/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/eyebrow/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/hoc.png": "/eyebrow/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/tattoo.png": "/eyebrow/static/media/tattoo.ba2910a1e548f97faa0d.png",
+    "static/media/thumbup.png": "/eyebrow/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/eyebrow/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/eyebrow/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/eyebrow/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/eyebrow/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/eyebrow/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/eyebrow/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/eyebrow/index.html",
+    "main.0b6cc278.css.map": "/eyebrow/static/css/main.0b6cc278.css.map",
+    "main.08262053.js.map": "/eyebrow/static/js/main.08262053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b6cc278.css",
+    "static/js/main.08262053.js"
+  ]
+}
